@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yawar-Ayub/todo-app/static/css/main.f855e6bc.css",
+    "main.js": "/yawar-Ayub/todo-app/static/js/main.a6565e59.js",
+    "index.html": "/yawar-Ayub/todo-app/index.html",
+    "main.f855e6bc.css.map": "/yawar-Ayub/todo-app/static/css/main.f855e6bc.css.map",
+    "main.a6565e59.js.map": "/yawar-Ayub/todo-app/static/js/main.a6565e59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a6565e59.js"
+  ]
+}
